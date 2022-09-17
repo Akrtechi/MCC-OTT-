@@ -808,7 +808,6 @@ async def auto_filter(client, msg, spoll=False):
             if settings['auto_delete']:
                 await asyncio.sleep(600)
                 await hehe.delete()
-                await message.delete()
         except (MediaEmpty, PhotoInvalidDimensions, WebpageMediaEmpty):
             pic = imdb.get('poster')
             poster = pic.replace('.jpg', "._V1_UX360.jpg")
@@ -816,20 +815,17 @@ async def auto_filter(client, msg, spoll=False):
             if settings['auto_delete']:
                 await asyncio.sleep(600)
                 await hmm.delete()
-                await message.delete()
         except Exception as e:
             logger.exception(e)
             fek = await message.reply_photo(photo=NOR_IMG, caption=cap, reply_markup=InlineKeyboardMarkup(btn))
             if settings['auto_delete']:
                 await asyncio.sleep(600)
                 await fek.delete()
-                await message.delete()
     else:
         fuk = await message.reply_photo(photo=NOR_IMG, caption=cap, reply_markup=InlineKeyboardMarkup(btn))
         if settings['auto_delete']:
             await asyncio.sleep(600)
             await fuk.delete()
-            await message.delete()
     if spoll:
         await msg.message.delete()
 

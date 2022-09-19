@@ -11,8 +11,8 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 ✯ Bᴏᴛ Sᴇʀᴠᴇʀ: Rᴀɪʟᴡᴀʏ
 ✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v2.0.3 [ Sᴛᴀʙʟᴇ ]</b>"""
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
-- ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
-- ꜱᴏᴜʀᴄᴇ - <a href="https://t.me/MOVIE_MEADIA">ʜᴇʀᴇ</a>
+- Jᴏɪɴ ᴏᴜʀ ᴄᴏᴍᴍᴜɴɪᴛʏ.
+- ᴄʜᴀɴɴᴇʟ ʟɪɴᴋ - <a href="https://t.me/MOVIE_MEADIA">ʜᴇʀᴇ</a>
 Dᴇᴠᴇʟᴏᴘᴇʀ:
 - <a href="https://t.me/MOVIE_MEADIA">𝐌𝐎𝐕𝐈𝐄 𝐌𝐄𝐀𝐃𝐈𝐀</a></b>"""
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>

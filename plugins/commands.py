@@ -24,8 +24,8 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'https://t.me/auto_m4_mallumovies_bot?startgroup=true')
                 ],[
-                    InlineKeyboardButton('MY GROUP 📌', url='https://t.me/MM_ARCHIVES')
-                    InlineKeyboardButton('MY OWNER ⚒', url='https://t.me/MOVIE_MEADIA'),
+                    InlineKeyboardButton('MY GROUP 📌', url='https://t.me/MM_ARCHIVES'),
+                    InlineKeyboardButton('MY OWNER ⚒', url='https://t.me/MOVIE_MEADIA')
                 ],[
                     InlineKeyboardButton('HELP ⚠️', callback_data='help'),
                     InlineKeyboardButton('ABOUT ⚙', callback_data='about')
@@ -47,8 +47,8 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'https://t.me/auto_m4_mallumovies_bot?startgroup=true')
                 ],[
-                    InlineKeyboardButton('MY GROUP 📌', url='https://t.me/MM_ARCHIVES')
-                    InlineKeyboardButton('MY OWNER ⚒', url='https://t.me/MOVIE_MEADIA'),
+                    InlineKeyboardButton('MY GROUP 📌', url='https://t.me/MM_ARCHIVES'),
+                    InlineKeyboardButton('MY OWNER ⚒', url='https://t.me/MOVIE_MEADIA')
                 ],[
                     InlineKeyboardButton('HELP ⚠️', callback_data='help'),
                     InlineKeyboardButton('ABOUT ⚙', callback_data='about')
@@ -95,8 +95,8 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'https://t.me/auto_m4_mallumovies_bot?startgroup=true')
                 ],[
-                    InlineKeyboardButton('MY GROUP 📌', url='https://t.me/MM_ARCHIVES')
-                    InlineKeyboardButton('MY OWNER ⚒', url='https://t.me/MOVIE_MEADIA'),
+                    InlineKeyboardButton('MY GROUP 📌', url='https://t.me/MM_ARCHIVES'),
+                    InlineKeyboardButton('MY OWNER ⚒', url='https://t.me/MOVIE_MEADIA')
                 ],[
                     InlineKeyboardButton('HELP ⚠️', callback_data='help'),
                     InlineKeyboardButton('ABOUT ⚙', callback_data='about')

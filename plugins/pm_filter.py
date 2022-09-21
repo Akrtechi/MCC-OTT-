@@ -916,7 +916,7 @@ async def auto_filter(client, msg, spoll=False):
             if settings['auto_delete']:
                 await asyncio.sleep(600)
                 await fuk.delete()
-         except KeyError:
+        except KeyError:
             grpid = await active_connection(str(message.from_user.id))
             await save_group_settings(grpid, 'auto_delete', True)
             settings = await get_settings(message.chat.id)

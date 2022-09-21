@@ -35,7 +35,7 @@ SPELL_CHECK = {}
 async def give_filter(client, message):
     settings = await get_settings(message.chat.id)
     await manual_filters(client, message)
-    if settings['auto_ffilter']:
+    try:
         await auto_filter(client, message)
 
 @Client.on_callback_query(filters.regex(r"^next"))

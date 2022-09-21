@@ -46,7 +46,7 @@ async def give_filter(client, message):
             if settings['auto_ffilter']:
                 await auto_filter(client, message)
         except AttributeError:
-            await Client.send_message(chat_id=message.chat.id, text="Use /settings and Turn on AutoFilter on settings menu.")
+            await Client.send_message(message.chat.id, "Use /settings and Turn on AutoFilter on settings menu.")
 
 @Client.on_callback_query(filters.regex(r"^next"))
 async def next_page(bot, query):

@@ -4,7 +4,7 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ: {}
-✯ Cʀᴇᴀᴛᴏʀ: <a href=https://t.me/MOVIE_MEADIA>𝐌𝐎𝐕𝐈𝐄 𝐌𝐄𝐀𝐃𝐈𝐀</a>
+✯ Cʀᴇᴀᴛᴏʀ: <a href=https://t.me/MCC_OTT>𝐌𝐎𝐕𝐈𝐄 𝐌𝐄𝐀𝐃𝐈𝐀</a>
 ✯ Lɪʙʀᴀʀʏ: Pʏʀᴏɢʀᴀᴍ
 ✯ Lᴀɴɢᴜᴀɢᴇ: Pʏᴛʜᴏɴ 3
 ✯ DᴀᴛᴀBᴀsᴇ: MᴏɴɢᴏDB
@@ -12,9 +12,9 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 ✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v2.0.3 [ Sᴛᴀʙʟᴇ ]</b>"""
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 - Jᴏɪɴ ᴏᴜʀ ᴄᴏᴍᴍᴜɴɪᴛʏ.
-- ᴄʜᴀɴɴᴇʟ ʟɪɴᴋ - <a href="https://t.me/MOVIE_MEADIA">ʜᴇʀᴇ</a>
+- ᴄʜᴀɴɴᴇʟ ʟɪɴᴋ - <a href="https://t.me/MCC_OTT">ʜᴇʀᴇ</a>
 Dᴇᴠᴇʟᴏᴘᴇʀ:
-- <a href="https://t.me/MOVIE_MEADIA">𝐌𝐎𝐕𝐈𝐄 𝐌𝐄𝐀𝐃𝐈𝐀</a></b>"""
+- <a href="https://t.me/MCC_OTT">𝐌𝐂𝐂 𝐎𝐓𝐓</a></b>"""
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
 <b>ɴᴏᴛᴇ:</b>

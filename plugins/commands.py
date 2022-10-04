@@ -24,13 +24,13 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('➕ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ➕', url=f'https://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('MY GROUP 📌', url='https://t.me/MM_ARCHIVES'),
-                    InlineKeyboardButton('MY OWNER ⚒', url='https://t.me/MOVIE_MEADIA')
+                    InlineKeyboardButton('MY GROUP 📌', url='https://t.me/Movie_Collections_Group'),
+                    InlineKeyboardButton('MY OWNER ⚒', url='https://t.me/MCC_OTT')
                 ],[
                     InlineKeyboardButton('HELP ⚠️', callback_data='help'),
                     InlineKeyboardButton('ABOUT ⚙', callback_data='about')
                 ],[
-                    InlineKeyboardButton('📀 𝗗𝗩𝗗 𝗨𝗣𝗗𝗔𝗧𝗘𝗦 📀', url='https://t.me/MM_DVD_UPDATES')
+                    InlineKeyboardButton('📀 𝗗𝗩𝗗 𝗨𝗣𝗗𝗔𝗧𝗘𝗦 📀', url='https://t.me/DVD_OTT_UPDATES_CHANNEL')
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply(script.START_TXT.format(message.from_user.mention if message.from_user else message.chat.title, temp.U_NAME, temp.B_NAME), reply_markup=reply_markup)
@@ -47,13 +47,13 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('➕ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ➕', url=f'https://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('MY GROUP 📌', url='https://t.me/MM_ARCHIVES'),
-                    InlineKeyboardButton('MY OWNER ⚒', url='https://t.me/MOVIE_MEADIA')
+                    InlineKeyboardButton('MY GROUP 📌', url='https://t.me/Movie_Collections_Group'),
+                    InlineKeyboardButton('MY OWNER ⚒', url='https://t.me/MCC_OTT')
                 ],[
                     InlineKeyboardButton('HELP ⚠️', callback_data='help'),
                     InlineKeyboardButton('ABOUT ⚙', callback_data='about')
                 ],[
-                    InlineKeyboardButton('📀 𝗗𝗩𝗗 𝗨𝗣𝗗𝗔𝗧𝗘𝗦 📀', url='https://t.me/MM_DVD_UPDATES')
+                    InlineKeyboardButton('📀 𝗗𝗩𝗗 𝗨𝗣𝗗𝗔𝗧𝗘𝗦 📀', url='https://t.me/DVD_OTT_UPDATES_CHANNEL')
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -95,13 +95,13 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('➕ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ➕', url=f'https://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('MY GROUP 📌', url='https://t.me/MM_ARCHIVES'),
-                    InlineKeyboardButton('MY OWNER ⚒', url='https://t.me/MOVIE_MEADIA')
+                    InlineKeyboardButton('MY GROUP 📌', url='https://t.me/Movie_Collections_Group'),
+                    InlineKeyboardButton('MY OWNER ⚒', url='https://t.me/MCC_OTT')
                 ],[
                     InlineKeyboardButton('HELP ⚠️', callback_data='help'),
                     InlineKeyboardButton('ABOUT ⚙', callback_data='about')
                 ],[
-                    InlineKeyboardButton('📀 𝗗𝗩𝗗 𝗨𝗣𝗗𝗔𝗧𝗘𝗦 📀', url='https://t.me/MM_DVD_UPDATES')
+                    InlineKeyboardButton('📀 𝗗𝗩𝗗 𝗨𝗣𝗗𝗔𝗧𝗘𝗦 📀', url='https://t.me/DVD_OTT_UPDATES_CHANNEL')
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -152,10 +152,10 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton("𝐌𝐘  𝐆𝐑𝐎𝐔𝐏 📌", url="https://t.me/MM_ARCHIVES"),
-                          InlineKeyboardButton("𝐌𝐘  𝐎𝐖𝐍𝐄𝐑 ⚒", url="https://t.me/MOVIE_MEADIA")
+                          InlineKeyboardButton("𝐌𝐘  𝐆𝐑𝐎𝐔𝐏 📌", url="https://t.me/Movie_Collections_Group"),
+                          InlineKeyboardButton("𝐌𝐘  𝐎𝐖𝐍𝐄𝐑 ⚒", url="https://t.me/MCC_OTT")
                        ],[
-                          InlineKeyboardButton("💿 𝐃𝐕𝐃 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 💿", url="https://t.me/MM_DVD_UPDATES")
+                          InlineKeyboardButton("💿 𝐃𝐕𝐃 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 💿", url="https://t.me/DVD_OTT_UPDATES_CHANNEL")
                          ]
                         ]
                     )
@@ -171,10 +171,10 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton("𝐌𝐘  𝐆𝐑𝐎𝐔𝐏 📌", url="https://t.me/MM_ARCHIVES"),
-                          InlineKeyboardButton("𝐌𝐘  𝐎𝐖𝐍𝐄𝐑 ⚒", url="https://t.me/MOVIE_MEADIA")
+                          InlineKeyboardButton("𝐌𝐘  𝐆𝐑𝐎𝐔𝐏 📌", url="https://t.me/Movie_Collections_Group"),
+                          InlineKeyboardButton("𝐌𝐘  𝐎𝐖𝐍𝐄𝐑 ⚒", url="https://t.me/MCC_OTT")
                        ],[
-                          InlineKeyboardButton("💿 𝐃𝐕𝐃 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 💿", url="https://t.me/MM_DVD_UPDATES")
+                          InlineKeyboardButton("💿 𝐃𝐕𝐃 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 💿", url="https://t.me/DVD_OTT_UPDATES_CHANNEL")
                          ]
                         ]
                     )
@@ -242,10 +242,10 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                      [
-                      InlineKeyboardButton("𝐌𝐘  𝐆𝐑𝐎𝐔𝐏 📌", url="https://t.me/MM_ARCHIVES"),
-                      InlineKeyboardButton("𝐌𝐘  𝐎𝐖𝐍𝐄𝐑 ⚒", url="https://t.me/MOVIE_MEADIA")
+                      InlineKeyboardButton("𝐌𝐘  𝐆𝐑𝐎𝐔𝐏 📌", url="https://t.me/Movie_Collections_Group"),
+                      InlineKeyboardButton("𝐌𝐘  𝐎𝐖𝐍𝐄𝐑 ⚒", url="https://t.me/MCC_OTT")
                    ],[
-                      InlineKeyboardButton("💿 𝐃𝐕𝐃 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 💿", url="https://t.me/MM_DVD_UPDATES")
+                      InlineKeyboardButton("💿 𝐃𝐕𝐃 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 💿", url="https://t.me/DVD_OTT_UPDATES_CHANNEL")
                      ]
                     ]
                 )
@@ -285,10 +285,10 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
              [
-              InlineKeyboardButton("𝐌𝐘  𝐆𝐑𝐎𝐔𝐏 📌", url="https://t.me/MM_ARCHIVES"),
-              InlineKeyboardButton("𝐌𝐘  𝐎𝐖𝐍𝐄𝐑 ⚒", url="https://t.me/MOVIE_MEADIA")
+              InlineKeyboardButton("𝐌𝐘  𝐆𝐑𝐎𝐔𝐏 📌", url="https://t.me/Movie_Collections_Group"),
+              InlineKeyboardButton("𝐌𝐘  𝐎𝐖𝐍𝐄𝐑 ⚒", url="https://t.me/MCC_OTT")
            ],[
-              InlineKeyboardButton("💿 𝐃𝐕𝐃 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 💿", url="https://t.me/MM_DVD_UPDATES")
+              InlineKeyboardButton("💿 𝐃𝐕𝐃 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 💿", url="https://t.me/DVD_OTT_UPDATES_CHANNEL")
              ]
             ]
         )

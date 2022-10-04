@@ -147,7 +147,7 @@ Fᴏʀ Aᴅᴍɪɴ Sᴜᴘᴘᴏʀᴛ Tʏᴘᴇ @admin Wɪᴛʜ Yᴏᴜʀ Mᴇss
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
 • ꜰᴜʟʟ ɴᴀᴍᴇ : ᴊᴏᴇʟ ᴋᴜʀɪᴀɴ ʙɪᴊᴜ
-• ᴜꜱᴇʀɴᴀᴍᴇ : @creatorbeatz
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/creatorbeatz'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
+• ᴜꜱᴇʀɴᴀᴍᴇ : @Movie_Meadia
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='https://t.me/MMAssistBot'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
 """
 

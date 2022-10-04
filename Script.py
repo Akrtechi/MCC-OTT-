@@ -137,7 +137,8 @@ Dᴏ Nᴏᴛ Cᴏɴᴛᴀᴄᴛ Aᴅᴍɪɴ Dɪʀᴇᴄᴛʟʏ...
 
 Iғ Yᴏᴜ Wᴀɴᴛ Tᴏ Cᴏɴᴛᴀᴄᴛ Aᴅᴍɪɴ, Pʟᴇᴀsᴇ Sᴇɴᴅ Tʜᴇ Mᴇssᴀɢᴇ Tᴏ @MMAssistBot Aɴᴅ Tʜᴇ Bᴏᴛ Wɪʟʟ Dᴇʟɪᴠᴇʀ Tʜᴇ Mᴇssᴀɢᴇ Tᴏ Tʜᴇ Gʀᴏᴜᴘ Aᴅᴍɪɴ...
 
-<a href='https://t.me/filmy_harbour_support'>Iғ Yᴏᴜ Aʀᴇ Fᴀᴄɪɴɢ Aɴʏ Pʀᴏʙʟᴇᴍs Wɪᴛʜ Oᴜʀ Mᴏᴠɪᴇ Fɪʟᴇs, Bᴏᴛs Oʀ Gʀᴏᴜᴘs, Rᴇᴘᴏʀᴛ Iᴛ Iɴ Oᴜʀ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ @filmy_harbour_support</a>
+
+
 
 Fᴏʀ Aᴅᴍɪɴ Sᴜᴘᴘᴏʀᴛ Tʏᴘᴇ @admin Wɪᴛʜ Yᴏᴜʀ Mᴇssᴀɢᴇ Aɴᴅ Tʜᴇ Bᴏᴛ Wɪʟʟ Fᴏʀᴡᴀʀᴅ Tʜᴇ Mᴇssᴀɢᴇ Tᴏ Tʜᴇ Aᴅᴍɪɴ...</b>
 """
